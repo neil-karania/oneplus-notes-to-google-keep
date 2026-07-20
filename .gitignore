@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Migration output and local state
+verified_export/
+oneplus_keep_import_state.json
+.oneplus_keep_browser_profile/
+
+# User backups and extracted data
+*.zip
+*.bak
+backup/
+exports/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
