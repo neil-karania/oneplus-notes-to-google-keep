@@ -48,7 +48,7 @@ On the OnePlus phone:
 The folder is commonly located under:
 
 ```text
-Internal Storage/Android/data/com.oneplus.note/
+Internal Storage/Android/data/com.oneplus.backuprestore/
 ```
 
 The exact location can differ by OnePlus/OxygenOS version. Copy the complete backup folder, not only individual files inside it.
